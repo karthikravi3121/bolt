@@ -3,8 +3,12 @@ Bolt is a voice-activated web assistant built using HTML, CSS, and JavaScript. I
 
 Technologies Used
 HTML: The structure and content of the web page.
+
 CSS: The design and layout of the page.
+
 JavaScript:
 Implements voice recognition using the SpeechRecognition interface.
+
 Provides text-to-speech functionality using the SpeechSynthesisUtterance interface.
+
 Handles user input and performs actions like opening websites, playing music, and providing real-time information.
